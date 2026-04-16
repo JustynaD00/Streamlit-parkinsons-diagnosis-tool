@@ -1,0 +1,1112 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6378
+>>
+stream
+0.5670000000000001 w
+0 G
+0.06 0.15 0.3 rg
+0. 841.8899999999999864 595.2755905511811534 -124.7244094488189035 re
+f
+BT
+/F2 35 Tf
+40.25 TL
+1. g
+56.6929133858267775 779.5277952755905062 Td
+(EthiCheck) Tj
+ET
+BT
+/F1 15 Tf
+17.25 TL
+0.525 0.651 0.898 rg
+56.6929133858267775 739.8427559055118081 Td
+(The AI Ethics Assessment Platform) Tj
+ET
+BT
+/F1 13 Tf
+14.9499999999999993 TL
+0.525 0.651 0.898 rg
+354.3307086614173613 790.8663779527558972 Td
+(www.ethicheck.ai) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+1. g
+354.3307086614173613 762.5199212598424765 Td
+(A free tool to support educators and) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+1. g
+354.3307086614173613 739.8427559055118081 Td
+(other professionals as they navigate AI Ethics) Tj
+ET
+BT
+/F2 24 Tf
+27.5999999999999979 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 674.6459055118109518 Td
+(AI Ethics Assessment Report) Tj
+ET
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 617.952992125984224 Td
+(Executive Summary) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 589.6065354330708033 Td
+(This comprehensive AI ethics assessment evaluates your Diagnosing Parkinson's disease with) Tj
+T* (Machine Learning across six critical dimensions. The overall assessment grade is Good with a) Tj
+T* (medium risk profile. This report provides detailed analysis, recommendations, and next steps to) Tj
+T* (ensure ethical AI implementation aligned with current best practices and regulatory requirements.) Tj
+ET
+0.78 G
+1.4173228346456694 w
+56.6929133858267775 504.5671653543306547 m
+538.5826771653544256 504.5671653543306547 l
+S
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 476.2207086614172908 Td
+(Project Information) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 447.8742519685038701 Td
+(Project Title:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+226.7716535433071101 447.8742519685038701 Td
+(Diagnosing Parkinson's disease with Machine Learning) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 430.8663779527558404 Td
+(AI Tool/Platform:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+226.7716535433071101 430.8663779527558404 Td
+(EEGNet model) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 413.8585039370078107 Td
+(Organization Type:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+226.7716535433071101 413.8585039370078107 Td
+(healthcare) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 396.850629921259781 Td
+(Primary Users:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+226.7716535433071101 396.850629921259781 Td
+(Not specified) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 379.8427559055117513 Td
+(Geographic Region:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+226.7716535433071101 379.8427559055117513 Td
+(uk) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 362.8348818897637216 Td
+(Users Impacted:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+226.7716535433071101 362.8348818897637216 Td
+(Not specified) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 345.8270078740156919 Td
+(Report Generated:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+226.7716535433071101 345.8270078740156919 Td
+(4/7/2026) Tj
+ET
+0.78 G
+1.4173228346456694 w
+56.6929133858267775 314.6459055118109518 m
+538.5826771653544256 314.6459055118109518 l
+S
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 286.2994488188975311 Td
+(Project Description) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 257.952992125984224 Td
+(This project investigates whether EEG brain signals recorded during a cognitive oddball task can) Tj
+T* (reliably distinguish Parkinson's Disease \(PD\) patients from healthy controls \(CTL\), and whether a) Tj
+T* (patient's medication state — on or off levodopa — leaves a detectable signature in those signals.) Tj
+T* (The long-term aim is to identify objective, non-invasive EEG biomarkers that could support PD) Tj
+T* (diagnosis and treatment monitoring without relying on subjective clinical assessments.) Tj
+T* (To achieve this, the pipeline first cleans and standardises raw EEG recordings across all subjects) Tj
+T* (through automated artefact removal, bad channel interpolation, ICA, and bandpass filtering, before) Tj
+T* (epoching the signal around stimulus events. A compact convolutional neural network — EEGNet —) Tj
+T* (is then trained using 5-fold cross-validation, with subjects kept strictly separate across folds and a) Tj
+T* (held-out test set reserved before any training begins. Three clinically meaningful comparisons are) Tj
+T* (supported: PD-OFF vs CTL, PD-ON vs CTL, and PD-ON vs PD-OFF. Classification performance is) Tj
+T* (measured at both single-trial and subject level using AUC-ROC and balanced accuracy to account) Tj
+T* (for class imbalance.) Tj
+T* (The pipeline produces a fully trained and deployable model — the best-performing CV fold —) Tj
+T* (alongside per-fold metrics, ROC curves, confusion matrices, and classification reports for both) Tj
+T* (cross-validation and the held-out test subjects. A decremental feature importance analysis further) Tj
+T* (identifies which EEG frequency bands and scalp channels carry the most discriminative information) Tj
+T* (between groups. All model weights, normalisation statistics, and configuration are saved, making) Tj
+T* (the results reproducible and the model ready for inference on new subjects.) Tj
+ET
+0.06 0.15 0.3 rg
+0. 34.0159842519683977 595.2755905511811534 -34.0157480314960665 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+42.5196850393700814 14.1734645669290558 Td
+(Generated by EthiCheck • 4/7/2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+481.8897637795275841 14.1734645669290558 Td
+(Page 1 of X) Tj
+ET
+0.06 0.15 0.3 rg
+0. 34.0159842519683977 595.2755905511811534 -34.0157480314960665 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+42.5196850393700814 14.1734645669290558 Td
+(Generated by EthiCheck • 4/7/2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+481.8897637795275841 14.1734645669290558 Td
+(Page 1 of 3) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 6642
+>>
+stream
+1.4173228346456694 w
+0.78 G
+0.06 0.15 0.3 rg
+0. 841.8899999999999864 595.2755905511811534 -42.5196850393700814 re
+f
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+1. g
+42.5196850393700814 813.5435433070865656 Td
+(EthiCheck) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.525 0.651 0.898 rg
+453.5433070866142202 813.5435433070865656 Td
+(www.ethicheck.ai) Tj
+ET
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 742.6774015748030706 Td
+(Individual Category Assessments) Tj
+ET
+0.94 g
+56.6929133858267775 700.1577165354329964 481.8897637795275841 -22.677165354330711 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+70.8661417322834666 685.9844881889763428 Td
+(Category) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+340.157480314960651 685.9844881889763428 Td
+(Score) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+396.8503937007874356 685.9844881889763428 Td
+(Grade) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+467.7165354330709306 685.9844881889763428 Td
+(Risk Level) Tj
+ET
+0.78 G
+56.6929133858267775 677.480551181102328 m
+538.5826771653544256 677.480551181102328 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+70.8661417322834666 663.3073228346456744 Td
+(Fairness & Bias) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+340.157480314960651 663.3073228346456744 Td
+(7.5) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+396.8503937007874356 663.3073228346456744 Td
+(Good) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+467.7165354330709306 663.3073228346456744 Td
+(Low) Tj
+ET
+0.78 G
+56.6929133858267775 654.8033858267716596 m
+538.5826771653544256 654.8033858267716596 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+70.8661417322834666 640.6301574803148924 Td
+(Privacy & Data Protection) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+340.157480314960651 640.6301574803148924 Td
+(7.6) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+396.8503937007874356 640.6301574803148924 Td
+(Good) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+467.7165354330709306 640.6301574803148924 Td
+(Low) Tj
+ET
+0.78 G
+56.6929133858267775 632.1262204724408775 m
+538.5826771653544256 632.1262204724408775 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+70.8661417322834666 617.952992125984224 Td
+(Transparency & Explainability) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+340.157480314960651 617.952992125984224 Td
+(7.5) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+396.8503937007874356 617.952992125984224 Td
+(Good) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+467.7165354330709306 617.952992125984224 Td
+(Low) Tj
+ET
+0.78 G
+56.6929133858267775 609.4490551181102092 m
+538.5826771653544256 609.4490551181102092 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+70.8661417322834666 595.2758267716535556 Td
+(Human Oversight) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+340.157480314960651 595.2758267716535556 Td
+(8.5) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+396.8503937007874356 595.2758267716535556 Td
+(Excellent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+467.7165354330709306 595.2758267716535556 Td
+(Low) Tj
+ET
+0.78 G
+56.6929133858267775 586.7718897637794271 m
+538.5826771653544256 586.7718897637794271 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+70.8661417322834666 572.5986614173227736 Td
+(Organizational Effectiveness) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+340.157480314960651 572.5986614173227736 Td
+(8.5) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+396.8503937007874356 572.5986614173227736 Td
+(Excellent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+467.7165354330709306 572.5986614173227736 Td
+(Low) Tj
+ET
+0.78 G
+56.6929133858267775 564.0947244094487587 m
+538.5826771653544256 564.0947244094487587 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+70.8661417322834666 549.9214960629921052 Td
+(Risk Management & Safety) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+340.157480314960651 549.9214960629921052 Td
+(7) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+396.8503937007874356 549.9214960629921052 Td
+(Good) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.173 0.243 0.314 rg
+467.7165354330709306 549.9214960629921052 Td
+(Low) Tj
+ET
+56.6929133858267775 541.4175590551180903 m
+538.5826771653544256 541.4175590551180903 l
+S
+0.78 G
+1.4173228346456694 w
+56.6929133858267775 498.8978740157479592 m
+538.5826771653544256 498.8978740157479592 l
+S
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 470.5514173228345953 Td
+(Key Findings) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 442.2049606299212314 Td
+(1. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 442.2049606299212314 Td
+(Overall Assessment Grade: Good - Your AI implementation demonstrates strong ethical) Tj
+T* (practices.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 405.3545669291337958 Td
+(2. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 405.3545669291337958 Td
+(Risk Profile: Medium - This indicates moderate ethical concerns requiring attention.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 382.6774015748030706 Td
+(3. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 382.6774015748030706 Td
+(Compliance Status: Your implementation shows good alignment with current AI ethics) Tj
+T* (frameworks and regulatory requirements.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 345.8270078740156919 Td
+(4. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 345.8270078740156919 Td
+(Areas of Strength: Strong performance in data privacy and human oversight dimensions.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 323.1498425196849666 Td
+(5. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 323.1498425196849666 Td
+(Improvement Opportunities: Focus on bias transparency and impact assessment for enhanced) Tj
+T* (ethical compliance.) Tj
+ET
+0.06 0.15 0.3 rg
+0. 34.0159842519683977 595.2755905511811534 -34.0157480314960665 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+42.5196850393700814 14.1734645669290558 Td
+(Generated by EthiCheck • 4/7/2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+481.8897637795275841 14.1734645669290558 Td
+(Page 2 of X) Tj
+ET
+0.06 0.15 0.3 rg
+0. 34.0159842519683977 595.2755905511811534 -34.0157480314960665 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+42.5196850393700814 14.1734645669290558 Td
+(Generated by EthiCheck • 4/7/2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+481.8897637795275841 14.1734645669290558 Td
+(Page 2 of 3) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 5226
+>>
+stream
+1.4173228346456694 w
+0.78 G
+0.06 0.15 0.3 rg
+0. 841.8899999999999864 595.2755905511811534 -42.5196850393700814 re
+f
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+1. g
+42.5196850393700814 813.5435433070865656 Td
+(EthiCheck) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.525 0.651 0.898 rg
+453.5433070866142202 813.5435433070865656 Td
+(www.ethicheck.ai) Tj
+ET
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 742.6774015748030706 Td
+(Prioritized Recommendations) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 714.3309448818897636 Td
+(1. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 714.3309448818897636 Td
+(Implement comprehensive bias testing protocols to ensure fair outcomes across all user) Tj
+T* (demographics.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 671.8112598425196893 Td
+(2. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 671.8112598425196893 Td
+(Establish clear data governance policies with explicit consent mechanisms and data retention) Tj
+T* (schedules.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 629.291574803149615 Td
+(3. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 629.291574803149615 Td
+(Develop transparent AI decision-making processes with clear explanation capabilities for end) Tj
+T* (users.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 586.7718897637794271 Td
+(4. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 586.7718897637794271 Td
+(Create regular audit schedules to monitor AI performance and ethical compliance over time.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 558.42543307086612 Td
+(5. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 558.42543307086612 Td
+(Establish incident response procedures for addressing potential AI-related ethical concerns.) Tj
+ET
+0.78 G
+1.4173228346456694 w
+56.6929133858267775 515.9057480314960458 m
+538.5826771653544256 515.9057480314960458 l
+S
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 487.559291338582625 Td
+(Next Steps) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 459.2128346456692611 Td
+(1. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 459.2128346456692611 Td
+(Review this assessment with your AI governance team and key stakeholders.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 430.8663779527558404 Td
+(2. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 430.8663779527558404 Td
+(Prioritize implementation of high-impact recommendations based on your organizational) Tj
+T* (capacity.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 388.3466929133857661 Td
+(3. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 388.3466929133857661 Td
+(Establish timeline and assign responsibility for each recommended action item.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 360.0002362204724022 Td
+(4. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 360.0002362204724022 Td
+(Schedule follow-up assessment in 6-12 months to track progress and identify new) Tj
+T* (considerations.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 317.480551181102328 Td
+(5. ) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+79.3700787401574814 317.480551181102328 Td
+(Consider additional training for team members on AI ethics best practices and emerging) Tj
+T* (regulations.) Tj
+ET
+0.78 G
+1.4173228346456694 w
+56.6929133858267775 260.7876377952754865 m
+538.5826771653544256 260.7876377952754865 l
+S
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.063 0.149 0.298 rg
+56.6929133858267775 232.4411811023621794 Td
+(Disclaimer) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 204.0947244094487587 Td
+(IMPORTANT DISCLAIMER) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.173 0.243 0.314 rg
+56.6929133858267775 181.4175590551179766 Td
+(This assessment is provided by EthiCheck.ai as an guidance tool. While EthiCheck follows rigorous) Tj
+T* (ethical frameworks and best practices, users must ensure that internal protocols are adhered to as) Tj
+T* (per their institution's overall digital strategy and governance policies. This report does not constitute) Tj
+T* (legal advice in any way. Organizations remain solely responsible for compliance with applicable) Tj
+T* (laws, regulations, and institutional policies regarding AI implementation and data protection.) Tj
+ET
+0.06 0.15 0.3 rg
+0. 34.0159842519683977 595.2755905511811534 -34.0157480314960665 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+42.5196850393700814 14.1734645669290558 Td
+(Generated by EthiCheck • 4/7/2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+481.8897637795275841 14.1734645669290558 Td
+(Page 3 of 3) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 3.0.1)
+/CreationDate (D:20260407145843+01'00')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000018828 00000 n 
+0000020661 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000006582 00000 n 
+0000006719 00000 n 
+0000013413 00000 n 
+0000013550 00000 n 
+0000018897 00000 n 
+0000019022 00000 n 
+0000019153 00000 n 
+0000019287 00000 n 
+0000019425 00000 n 
+0000019549 00000 n 
+0000019678 00000 n 
+0000019810 00000 n 
+0000019946 00000 n 
+0000020074 00000 n 
+0000020201 00000 n 
+0000020330 00000 n 
+0000020463 00000 n 
+0000020565 00000 n 
+0000020913 00000 n 
+0000020999 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <ACE82DC595BC6E84264D0E602883BA3F> <ACE82DC595BC6E84264D0E602883BA3F> ]
+>>
+startxref
+21103
+%%EOF
