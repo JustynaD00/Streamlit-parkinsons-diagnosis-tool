@@ -1,5 +1,9 @@
-libglib2.0-0
-libsm6
-libxext6
-libxrender-dev
-ffmpeg
+streamlit==1.44.1
+mne==1.10.1
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.12.0
+matplotlib==3.8.4
+joblib==1.4.2
+scikit-learn==1.6.1
+eeglabio
